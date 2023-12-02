@@ -1,0 +1,14 @@
+{
+    "safetensors-metadata": {
+        "checkpoint/majicmix7.safetensors": {
+            "mtime": 1701350105.554057,
+            "value": {}
+        }
+    },
+    "hashes": {
+        "checkpoint/majicmix7.safetensors": {
+            "mtime": 1701350105.554057,
+            "sha256": "7c819b6d13663ed720c2254f4fe18373107dfef2448d337913c8fc545640881e"
+        }
+    }
+}
