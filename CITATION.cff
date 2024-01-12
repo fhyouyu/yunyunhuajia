@@ -3,5 +3,5 @@ message: "If you use this software, please cite it as below."
 authors:
   - given-names: AUTOMATIC1111
 title: "Stable Diffusion Web UI"
-date-released: 2022-08-22
+date-released: 2023-08-22
 url: "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
